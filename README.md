@@ -18,7 +18,7 @@
 ```
 <br>
 
-Hi, I'm Sami EL Yaagoubi, a Blockchain developer 👨🏻‍💻 from Morocco. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for revolutionary ideas. Beside's Computer Science stuff, I do business.
+Hi, I'm Sami EL Yaagoubi, a 21 year old Blockchain developer 👨🏻‍💻 from Morocco. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for revolutionary ideas. Beside's Computer Science stuff, I do business.
 
 <br>
 
@@ -29,6 +29,9 @@ Hi, I'm Sami EL Yaagoubi, a Blockchain developer 👨🏻‍💻 from Morocco. I
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
  - 🔗 My website: Working on it
+
+
+
  
  <br>
 
@@ -52,18 +55,16 @@ Hi, I'm Sami EL Yaagoubi, a Blockchain developer 👨🏻‍💻 from Morocco. I
 
 ---
 ### 📢 Learning about new trends:
-<p align="left">
+<p align="center">
   <a href="https://app.daily.dev/samielyaagoubi"><img src="https://api.daily.dev/devcards/v2/hZd0SHznLqGUIkTb0kaQz.png?type=default&r=0sz" width="356" alt="Sami el yaagoubi's Dev Card"/></a>
 </p>
 
 <hr>
 
-<details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekMaira10&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=L1ZLe&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
-</details>
 
 </br>
 

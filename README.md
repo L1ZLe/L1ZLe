@@ -62,7 +62,7 @@ Hi, I'm Sami EL Yaagoubi, a 21 year old Blockchain developer 👨🏻‍💻 fro
 <hr>
 
 <summary>📈 My GitHub Stats</summary>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1ZLe&layout=compact&theme=gotham" alt="abhisheknaiidu" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=L1ZLe&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 

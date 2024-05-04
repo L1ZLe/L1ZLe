@@ -77,7 +77,10 @@ Hi, I'm Sami EL Yaagoubi, a 21 year old Blockchain developer 👨🏻‍💻 fro
 <a href="https://github.com/L1ZLe/IPFS-nodes-behavior" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=L1ZLe&repo=IPFS-nodes-behavior&theme=dracula" />
 </a>
+<a href="https://github.com/L1ZLe/investments_manager" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=L1ZLe&repo=investments_manager&theme=dracula" />
+</a>
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Save some repositories by starring ⭐ them!
 </div>

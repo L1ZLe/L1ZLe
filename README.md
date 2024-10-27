@@ -3,22 +3,22 @@
 <p align="left">
 <a href="https://twitter.com/TraderL1z" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sami-elyaagoubi/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.datacamp.com/portfolio/L1ZLe" target="_blank"><img height="30" src="https://images.datacamp.com/image/upload/f_auto,q_auto:best/v1603223608/DC_New_mugdv8.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/0xezvuudfnhtuij67mmgq13w9?si=df2d5032af214065" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
 ```
 - 🔭 I’m currently working on a Blockchain Project
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Quantitative Finance
 - 👯 I’m looking on collaborations in the Crypto/Blockchain space
-- 🤔 I’m looking for help with figuring out why my code works on my machine but not on anyone else's.
-- 💬 Ask me about my latest coding adventures and the bugs I encountered along the way.
+- 🤔 I’m looking for help in securing a quantitative position at a hedge fund.
 - 📫 How to reach me: Send a carrier pigeon with a USB stick attached.
-- ⚡ Fun fact: The first known Bitcoin transaction was to buy illicit drugs.
+- ⚡ Fun fact: It was the mathematicians who won WWII
 ```
 <br>
 
-Hi, I'm Sami EL Yaagoubi, a 21 year old Blockchain developer 👨🏻‍💻 from Morocco. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for revolutionary ideas. Beside's Computer Science stuff, I do business.
+Hi, I'm Sami EL Yaagoubi, a 21 year old Blockchain developer and Data scientist 👨🏻‍💻 from Morocco. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for revolutionary ideas. Beside's Computer Science stuff, I do business.
 
 <br>
 
@@ -44,7 +44,6 @@ Hi, I'm Sami EL Yaagoubi, a 21 year old Blockchain developer 👨🏻‍💻 fro
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 <code><img height="30" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
@@ -70,6 +69,9 @@ Hi, I'm Sami EL Yaagoubi, a 21 year old Blockchain developer 👨🏻‍💻 fro
 
 <a href="https://github.com/L1ZLe/ethereum-wallet-miner" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=L1ZLe&repo=ethereum-wallet-miner&theme=dracula" />
+</a>
+<a href="https://github.com/L1ZLe/Quantitative_Electricity" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=L1ZLe&repo=Quantitative_Electricity&theme=dracula" />
 </a>
 <a href="https://github.com/L1ZLe/Fullstack-Blockchain-Tutorial" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=L1ZLe&repo=Fullstack-Blockchain-Tutorial&theme=dracula" />

@@ -9,12 +9,12 @@
 
 
 ```
-- 🔭 I’m currently working on a Blockchain Project
-- 🌱 I’m currently learning Quantitative Finance
+- 🔭 I’m currently working on a Blockchain/Quantitative Finance Project
+- 🌱 I’m currently learning about Luck / Randomness / Chaos
 - 👯 I’m looking on collaborations in the Crypto/Blockchain space
 - 🤔 I’m looking for help in securing a quantitative position at a hedge fund.
-- 📫 How to reach me: Send a carrier pigeon with a USB stick attached.
-- ⚡ Fun fact: It was the mathematicians who won WWII
+- 📫 How to reach me: You can get to me in six steps (or maybe it’s the six degrees of separation, I guess).
+- ⚡ Fun fact: It was mathematicians who won WWII
 ```
 <br>
 

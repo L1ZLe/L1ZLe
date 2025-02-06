@@ -18,7 +18,7 @@
 ```
 <br>
 
-Hi, I'm Sami EL Yaagoubi, a 21 year old Blockchain developer and Data scientist 👨🏻‍💻 from Morocco. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for revolutionary ideas. Beside's Computer Science stuff, I do Business & Finance.
+Hi, I'm Sami EL Yaagoubi, a 21 year old Blockchain developer and Data scientist 👨🏻‍💻 from Morocco. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for revolutionary ideas. Beside's Computer Science stuff, I do Business & Quant Finance.
 
 <br>
 

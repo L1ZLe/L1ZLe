@@ -3,7 +3,7 @@
 <p align="left">
 <a href="https://twitter.com/TraderL1z" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sami-elyaagoubi/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.datacamp.com/portfolio/L1ZLe" target="_blank"><img height="30" src="https://images.datacamp.com/image/upload/f_auto,q_auto:best/v1603223608/DC_New_mugdv8.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.datacamp.com/portfolio/L1ZLe/year-in-data/xp-with-day-streak/156234/top/1/streak/23" target="_blank"><img height="30" src="https://images.datacamp.com/image/upload/f_auto,q_auto:best/v1603223608/DC_New_mugdv8.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/0xezvuudfnhtuij67mmgq13w9?si=df2d5032af214065" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
